@@ -24,3 +24,8 @@ Eu sou o Thiago Chaves,engenheiro da computação, desenvolvedor, amante de tecn
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:thiago.chaves04@gmail.com" />
 
 </a>
+  
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchavess&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tchavess&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
