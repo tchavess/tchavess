@@ -96,9 +96,9 @@ With experience in Java language, also acting as Database Analyzer and Tester.
 <h3>:gear:&nbsp;GitHub Analytics:</h3>
   <p align="center">
     <a href="https://github.com/tchavess">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchavess&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchavess&show_icons=true&theme=dark" />
     <a/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tchavess&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tchavess&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
   </p>
 
 <!-- Hard Skills Lincavel-->
