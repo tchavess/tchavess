@@ -66,6 +66,8 @@ In addition, I developed research in the area of formal methods in software engi
   ![Netbeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=Apache-NetBeans-IDE&logoColor=1B6AC6)
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC) 
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=IntelliJ-IDEA)
+  
 
 **Control Version**
   
