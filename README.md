@@ -4,4 +4,5 @@
 
 Eu sou o Thiago Chaves,engenheiro da computação, desenvolvedor, amante de tecnologia. I
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-chaves)](https://www.linkedin.com/in/thiago-chaves)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?phone=5521976030304)](http://api.whatsapp.com/send?phone=5521976030304)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=thiago.chaves04@gmail.com)](thiago.chaves04@gmail.com)
