@@ -28,9 +28,8 @@
 
 <!-- Experience -->
 <h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
-During graduation I worked as an algorithms monitor (4 semesters) and discrete math monitor (1 semester). 
-<br/>
-In addition, I developed research in the area of formal methods in software engineering.
+
+Developer with over 3 years of experience working in different environments. Currently working with Backend NodeJs at Calindra: website with experience in Java language, also acting as Database Analyzer and Tester.
 
 <!-- Hard Skills -->
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
