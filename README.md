@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
-<h3 align="center"> Computer Engineer graduated from Universidade Veiga de Almeida(RJ), technology lover, looking for more every day.🚀🚀 </h3>
+<h3 align="center"> Computer Engineer graduated from Universidade Veiga de Almeida(Brazil - RJ), technology lover, looking for more every day.🚀🚀 </h3>
 
 <!-- Contatos -->
 <div align="center">    
