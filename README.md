@@ -1,6 +1,7 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
 ![<Node.js>](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=007396)
+![<MongoDB>](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=007396)
 
 ### Hi there 👋
 
