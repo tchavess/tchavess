@@ -29,7 +29,11 @@
 <!-- Experience -->
 <h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
 
-Developer with over 3 years of experience working in different environments. Currently working with Backend NodeJs at Calindra: website with experience in Java language, also acting as Database Analyzer and Tester.
+Developer with more then 3 years of experience working in different environments. 
+<br>
+Currently working with Backend NodeJs at Calindra: https://calindra.tech/ 
+<br>
+With experience in Java language, also acting as Database Analyzer and Tester.
 
 <!-- Hard Skills -->
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
