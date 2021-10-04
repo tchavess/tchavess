@@ -2,6 +2,10 @@
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
 ![<Node.js>](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=007396)
 ![<MongoDB>](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=007396)
+![<PostgreSQL>](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=#4169E1)
+![<MongoDB>](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=007396)
+![<MongoDB>](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=007396)
+
 
 ### Hi there 👋
 
