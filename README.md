@@ -83,9 +83,6 @@ In addition, I developed research in the area of formal methods in software engi
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger)
 
-  ![Overleaf](https://img.shields.io/badge/-Overleaf-333333?style=flat&logo=Overleaf)
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=LaTeX&logoColor=008080)
-
 **Operational Systems**  
   
   ![Mint](https://img.shields.io/badge/-Mint-333333?style=flat&logo=Linux-Mint)
@@ -95,16 +92,11 @@ In addition, I developed research in the area of formal methods in software engi
 <!-- GitHub Analytics -->
 <h3>:gear:&nbsp;GitHub Analytics:</h3>
   <p align="center">
-    <a href="https://github.com/tassiotfc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tassiotfc&show_icons=true&theme=tokyonight" />
+    <a href="https://github.com/tchavess">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchavess&show_icons=true&theme=tokyonight" />
     <a/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tassiotfc&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tchavess&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </p>
-
-<!-- Additional Information -->
-<h3 align="left"> :memo:&nbsp;Additional Information:</h3>
-
-- [Curriculum Vitae](https://rxresu.me/r/xcdpvt)
 
 <!-- Hard Skills Lincavel-->
 <!-- **Programming Languages and Database**
