@@ -74,7 +74,7 @@ In addition, I developed research in the area of formal methods in software engi
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![MongoDB](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![MongoDB](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![Bitbucket](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=bitbucket&logoColor=#0052CC)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=#0052CC)
   
 **Utilities Tools**
   
