@@ -137,3 +137,4 @@ With experience in Java language, also acting as Database Analyzer and Tester.
 <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="mongodb"/>
 </p>
  -->
+![Snake animation](https://github.com/tchavess/tchavess/blob/output/github-contribution-grid-snake.svg)
