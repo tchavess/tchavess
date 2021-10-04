@@ -1,3 +1,10 @@
+Hi there wave, Nice to meet you here. https://raw.githubusercontent.com/tassiotfc/tassiotfc/main/octo.gif
+
+
+
+
+
+
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
 ![<JavaScript>](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E)
