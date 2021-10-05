@@ -53,6 +53,7 @@ With experience in Java language, also acting as Database Analyzer and Tester.
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 <!--   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -62,14 +63,16 @@ With experience in Java language, also acting as Database Analyzer and Tester.
    
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
 
 **Development Tools**
 
+  ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=IntelliJ-IDEA)
+  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC) 
   ![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-333333?style=flat&logo=eclipse-ide)
   ![Netbeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=Apache-NetBeans-IDE&logoColor=1B6AC6)
-  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC) 
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=IntelliJ-IDEA)
+  
   
 
 **Control Version**
